@@ -1,0 +1,143 @@
+body{
+    text-align: center;
+}
+
+h2{
+    color: white;
+    font-family:serif;
+}
+
+h1{
+    color: white;
+    font-family:serif;
+}
+
+h5{
+    color: white;
+    font-family:serif;
+}
+
+h4{
+    color: white;
+    position: absolute;
+    top: 26em;
+    left: -35em;
+    bottom: 0;
+    right: 0;
+    z-index: 1;
+}
+
+.bottomPage{
+    justify-content: space-evenly;
+    position: relative;
+    background-color: black;
+    height: 600px;
+    
+}
+
+.hogwarts{
+    position: absolute;
+    top: 10em;
+    left: 50em;
+    bottom: 0;
+    right: 0;
+    z-index: 0;
+    width: 25em;
+    height: 25em;
+  }
+
+  li{
+    display: inline;
+  }
+
+  a{
+      color: white;
+  }
+
+  .parentHeader{
+      color: white;
+  }
+
+  .right{
+    position: absolute;
+    top: 1em;
+    right: 2em;
+    font-family: Sofia Pro,serif;
+    font-size: 15px;
+    background:purple;
+    color: white;
+    border-radius: 5px;
+  }
+
+  .exploreOne{
+      border-radius: 15px;
+      font-family: Sofia Pro,serif;
+      font-size: 25px;
+      background:purple;
+      color: white;
+      width: 300px;
+  }
+
+  .sorted{
+    border-radius: 15px;
+    font-family: Sofia Pro,serif;
+    font-size: 20px;
+    background:purple;
+    color: white;
+    position: absolute;
+    z-index: 1;
+    bottom: 2em;
+    left:13em;
+    width: 250px;
+
+  }
+
+  .hat{
+    color: white;
+    position: absolute;
+    top: 20em;
+    left: -60em;
+    bottom: 0;
+    right: 0;
+    z-index: 1;
+    font-family: Mason Sans OT,serif;
+  }
+
+  table{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
+
+  .hogHouse{
+    position: absolute;
+    top: 13em;
+    left: -33em;
+    bottom: 0;
+    right: 0;
+  }
+
+  .pin{
+    position: absolute;
+    top: 9em;
+    left: -40em;
+    bottom: 0;
+    right: 0;
+  }
+
+  .bird{
+    position: absolute;
+    top: 9em;
+    left: 0em;
+    bottom: 0;
+    right: 0;
+  }
+
+  .train{
+    position: absolute;
+    top: 9em;
+    left: 50em;
+    bottom: 0;
+    right: 0;
+  }
